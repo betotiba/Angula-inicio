@@ -34,3 +34,8 @@ SRC - Pasta coração do projeto que contem a index e o main.
 
 1 - Módulo: Limitador de contexto. Ex: Quarto, sala e cozinha. Neste local teremos uma serie de componentes e recursos inerentes ao módulo.
 2 - Componentes: O que será visual no módiulo como cor extrutura visa ao módulo.
+3 - Interpolação
+4 - OneWhaydatabind
+5 - TwoWayDatabind
+
+
