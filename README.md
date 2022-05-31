@@ -21,7 +21,10 @@ angular.Json - Contém as informações globais da nossa aplicação. Defini qua
 Assetes- Representa os arquivos estáticos da aplicação;
 Styles - representa o arquivo globar para css
 Inde - Página da aplicação. está será nossa SPA.
-Main - responsavel para fazer o boot da nosssa aplicação. Esue espera um módulo raiz para fazer a boot
+Main - responsável para fazer o boot da nosssa aplicação. Ele espera um módulo raiz para fazer toda a leitura da nossa aplicação. por padrão
+ele aguarda o AppModule de dentro da pasta APP que será lido e carregado dentro do html.
+
+Rodar o projeto; ng serve
 NodeModules - Diretório que agrupa todas as dependências
 SRC - Pasta coração do projeto que contem a index e o main.
 
